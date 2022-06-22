@@ -1,2 +1,1 @@
-# TinDogProject
-UDemy TinDog Bootstrap project
+TinDog Starting Files
