@@ -22,6 +22,15 @@ h1 {
   font-weight: 900;
 }
 
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 500;
+
+
+}
+
 h3 {
   font-family: "Montserrat-Bold", sans-serif;
   font-weight: 900;
@@ -66,7 +75,7 @@ p {
 /* Features section */
 
 #features {
-  padding: 9% 18%;
+  padding: 7% 15%;
 }
 
 .icon {
@@ -83,4 +92,38 @@ p {
 .feature-box {
   text-align: center;
   padding: 5%;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+
+}
+
+.dog-img {
+  width: 12%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+/* Press section */
+
+#press {
+
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+
+.press-logo {
+  width: 18%;
+  margin: 20px 20px 50px;
+
 }
